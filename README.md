@@ -14,7 +14,7 @@ I'm a full stack data scientist
 5. Microsoft Azure
 6. Text and Sentiment analysis
 7. Rstudio
-8. 
+
 
 
 
