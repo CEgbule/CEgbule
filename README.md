@@ -15,6 +15,9 @@ I'm a full stack data scientist
 6. Text and Sentiment analysis
 7. Rstudio
 8. SQL
+9. CRM - MS Dynamics 365, Salesforce and Agility
+10. Avaya Call Handling
+11. Customer care Executive
    
 
 
