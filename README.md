@@ -15,9 +15,10 @@ I'm a full stack data scientist
 6. Text and Sentiment analysis
 7. Rstudio
 8. SQL
-9. CRM - MS Dynamics 365, Salesforce and Agility
-10. Avaya Call Handling
-11. Customer care Executive
+9. DataBricks, SparkSession training dataset for deep learning using best recommendation Parameters like Cross-Validation and Root Mean Square Error (RMSE)
+10. CRM - MS Dynamics 365, Salesforce and Agility
+11. Avaya Call Handling
+12. Customer care Executive
    
 
 
