@@ -30,12 +30,10 @@ I'm a full stack data scientist
 
 🧠 BSc. Environmental Management Second class 
 
-👯‍♀️ MSc. Hospitality Management graduated with ditinction 
-
 🤔 MSc. Data Science ongoing.
 
 💬 more details loading...
-
+👯‍♀️ ...
 📫 ...
 
 😄 ...
